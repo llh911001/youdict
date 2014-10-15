@@ -1,4 +1,4 @@
-youdao
+youdict
 ======
 
 Youdao English to Chinese translation in terminal.
