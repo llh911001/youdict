@@ -1,0 +1,28 @@
+{
+    "name": "youdao",
+    "version": "0.0.1",
+    "bin": "./youdao.js",
+    "description": "Youdao dictionary in terminal",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "dictionary",
+        "english",
+        "chinese",
+        "dict.youdao.com"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/llh911001/youdict"
+    },
+    "author": {
+        "name": "larrylee",
+        "email": "llh911001@gmail.com"
+    },
+    "dependencies": {
+        "request": "~2.45.0",
+        "cheerio": "~0.17.0",
+        "chalk": "~0.5.1"
+    }
+}
