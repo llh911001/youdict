@@ -1,7 +1,7 @@
 {
-    "name": "youdao",
-    "version": "0.0.1",
-    "bin": "./youdao.js",
+    "name": "youdict",
+    "version": "0.1.0",
+    "bin": "./youdict.js",
     "description": "Youdao dictionary in terminal",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
